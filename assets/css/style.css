@@ -1316,7 +1316,10 @@ section {
   font-size: 18px;
   margin: 0 2px;
   line-height: 0;
-  vertical-align: middle;
+}
+
+i img {
+  vertical-align:inherit;
 }
 
 .team .member .member-info {
